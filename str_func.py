@@ -6,3 +6,4 @@ def get_title(line):
     """Делает первые буквы слова заглавными"""
     return line.title()
 
+
